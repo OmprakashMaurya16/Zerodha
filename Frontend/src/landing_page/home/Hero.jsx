@@ -3,7 +3,7 @@ import React from "react";
 const Hero = () => {
   return (
     <div className="container p-5 mb-5">
-      <div className="row text-center">
+      <div className="row text-center mb-5">
         <img
           src="media/image/homeHero.png"
           alt="Home Hero Image"
