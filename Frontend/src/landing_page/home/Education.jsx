@@ -2,7 +2,7 @@ import React from "react";
 
 const Education = () => {
   return (
-    <div className="container my-5 py-5 px-4">
+    <div className="container my-3 py-4 px-4">
       <div className="row align-items-center">
         <div className="col">
           <img src="media/image/education.svg" />
